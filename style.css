@@ -86,7 +86,7 @@ body{
     transition: transfrom 0.5s;
 }
 .card1{
-    background-image: url(out place.jpg);
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Shahid_Minar%2C_Kazi_Mohammad_Shafiqul_Islam_University_College%2C_Brahmanbaria.jpg/800px-Shahid_Minar%2C_Kazi_Mohammad_Shafiqul_Islam_University_College%2C_Brahmanbaria.jpg);
 }
 .card2{
     background-image: url(mosjid.jpg);
@@ -101,7 +101,7 @@ body{
     background-image: url(park.jpg);
 }
 .card6{
-    background-image: url(jomider house.jpg);
+    background-image: url(https://www.touristplaces.com.bd/images/pp/6/p120212.jpg);
 }
 .card:hover{
     transform: translateY(-10px);
